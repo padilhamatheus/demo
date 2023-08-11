@@ -1,5 +1,5 @@
 # Demo
 
-- Learnig Github
+- Learning Github.
 
 
